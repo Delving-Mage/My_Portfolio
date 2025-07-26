@@ -19,6 +19,11 @@ const navItems = [
     route: "events"
   },
   {
+    name: "Projects",
+    icon: <GrProjects className="h-6" />,
+    route: "#projects"
+  },
+  {
     name: "My Bucket",
     icon: <GrProjects  className="h-6"/>,
     route: "mybucket"

@@ -1,6 +1,14 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Personal Portfolio
+
+This portfolio showcases my work and projects. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and styled using Tailwind CSS.
+
+## Features
+
+- Animated landing page with theme switching
+- Responsive Projects section showcasing sample repositories
+
+## Getting Started
 
 ## Available Scripts
 

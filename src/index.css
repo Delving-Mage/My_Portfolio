@@ -139,4 +139,17 @@
     height: 62vh; /* Adjust image size */
     border-radius: 50%;
   }
+
+  /* Projects section */
+  #projects {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .project-card {
+    transition: transform 0.2s;
+  }
+
+  .project-card:hover {
+    transform: translateY(-4px);
+  }
   
