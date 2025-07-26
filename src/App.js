@@ -7,6 +7,7 @@ import { createRaindrops } from "./utils/createRainDrops";
 import { ThemeIcons } from "./components/themeIcons";
 import { ThemeContext } from "./contexts/themeContext";
 import { HomePage } from './components/homePage';
+import { ProjectsSection } from './components/ProjectsSection';
 
 function App() {
   const [theme, setTheme] = useState("moony");
@@ -33,6 +34,7 @@ function App() {
         <NavBar />
         <ThemeIcons />
         <HomePage />
+        <ProjectsSection />
       </div>
     </ThemeContext.Provider>
   );

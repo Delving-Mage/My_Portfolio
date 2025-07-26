@@ -1,3 +1,3 @@
-export const themes=({dark})=>{
-    return ({backgroundColor: dark? "red":"black"})
-}
+export const themes = ({ dark }) => {
+  return { backgroundColor: dark ? 'red' : 'black' };
+};
